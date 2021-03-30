@@ -151,3 +151,22 @@ states = [
     "name": "Wyoming",
     "capital": "Cheyenne"
 }]
+
+
+# states = [
+# {
+#     "name": "Alabama",
+#     "capital": "Montgomery"
+# }, {
+#     "name": "Alaska",
+#     "capital": "Juneau"
+# }, {
+#     "name": "Arizona",
+#     "capital": "Phoenix"
+# }, {
+#     "name": "Arkansas",
+#     "capital": "Little Rock"
+# }, {
+#     "name": "California",
+#     "capital": "Sacramento"
+# }]
